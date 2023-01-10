@@ -1,0 +1,15 @@
+C:\GreekBrains\333333332\2\obj\Debug\net6.0\2.csproj.AssemblyReference.cache
+C:\GreekBrains\333333332\2\obj\Debug\net6.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GreekBrains\333333332\2\obj\Debug\net6.0\2.AssemblyInfoInputs.cache
+C:\GreekBrains\333333332\2\obj\Debug\net6.0\2.AssemblyInfo.cs
+C:\GreekBrains\333333332\2\obj\Debug\net6.0\2.csproj.CoreCompileInputs.cache
+C:\GreekBrains\333333332\2\bin\Debug\net6.0\2.exe
+C:\GreekBrains\333333332\2\bin\Debug\net6.0\2.deps.json
+C:\GreekBrains\333333332\2\bin\Debug\net6.0\2.runtimeconfig.json
+C:\GreekBrains\333333332\2\bin\Debug\net6.0\2.dll
+C:\GreekBrains\333333332\2\bin\Debug\net6.0\2.pdb
+C:\GreekBrains\333333332\2\obj\Debug\net6.0\2.dll
+C:\GreekBrains\333333332\2\obj\Debug\net6.0\refint\2.dll
+C:\GreekBrains\333333332\2\obj\Debug\net6.0\2.pdb
+C:\GreekBrains\333333332\2\obj\Debug\net6.0\2.genruntimeconfig.cache
+C:\GreekBrains\333333332\2\obj\Debug\net6.0\ref\2.dll
